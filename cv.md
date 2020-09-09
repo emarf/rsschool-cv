@@ -7,7 +7,7 @@
    * **Linkedin: [My profile](https://www.linkedin.com/in/roman-ivashkevich-83321615b/)**
       
 ## Summary:      
-   My main goal is to become a highly qualified full-stack developer. I also want to improve my soft skills to work in a team and in the future become a leader, teach and improve my knowledge constantly. About myself, I am goal-oriented, stubborn but not so much as not to accept criticism, friendly, and have little experience working in a team(not related to development).
+   I’m going to start working as a Junior Front-End Developer in IT product this year.My main goal is to become a highly qualified full-stack developer. I also want to improve my soft skills to work in a team and in the future become a leader, teach and improve my knowledge constantly. About myself, I am goal-oriented, stubborn but not so much as not to accept criticism, friendly, and have little experience working in a team(not related to development).
       
 ## Skills 
    Javascript, CSS, HTML at the level of theory, complete tasks of Codewars, free courses, and coding templates. Have some experience in a setting of gulp4, methodologies BEM, and version control git.
