@@ -10,7 +10,7 @@
    I’m going to start working as a Junior Front-End Developer in IT product this year.My main goal is to become a highly qualified full-stack developer. I also want to improve my soft skills to work in a team and in the future become a leader, teach and improve my knowledge constantly. About myself, I am goal-oriented, stubborn but not so much as not to accept criticism, friendly, and have little experience working in a team(not related to development).
       
 ## Skills 
-   Javascript, CSS, HTML at the level of theory, complete tasks of Codewars, free courses, and coding templates. Have some experience in a setting of gulp4, methodologies BEM, and version control git.
+   Javascript, CSS, HTML, solving task on Codewars, free courses, and coding templates. Have some experience in a setting of gulp4, BEM methodologies, and version control git.
       
 ## Code examples:
    **Currying functions: multiply all elements in an array:**
@@ -26,7 +26,7 @@
    + The Modern JavaScript Tutorial (javascript.info)
    + **[Mogo template](https://github.com/emarf/Mogo_template)**
    + **[fakeTunes](https://github.com/emarf/fakeTunes)**
-   + **[Marketika](https://github.com/emarf/Marketika)**
+   + **[Marketika](https://github.com/emarf/Marketika_template)**
    
 ## Education
    Polotsk State Univercity, faculty of information technologies(geodesist).
