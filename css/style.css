@@ -78,7 +78,7 @@ body {
   .section-experience .experience-list {
     font-size: 20px; }
     .section-experience .experience-list__item {
-      list-style-image: url(/star.svg);
+      list-style-image: url(../star.svg);
       list-style-position: inside;
       padding: 0;
       margin: 0; }
